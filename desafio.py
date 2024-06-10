@@ -1,19 +1,3 @@
-
-# DESAFIO DIO.
-
-Projeto realizado para desafiar e fixar os conhecimentos adquiridos no Bootcamp da Dio em parceria com a Vivo.
-Durante o desafio, tivemos a chance de aplicar conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias.
-
-## ⚠️ Projeto/Desafio ⚠️
-
-Neste projeto, foi solicitado a criação de um Sistema Bancário em Python. O objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações. 
-
-Linguagem utilizada:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## Estrutura do Código:
-
 menu = """
 
 [d] Depositar
@@ -80,24 +64,3 @@ while True:
 
     else:
         print("Operação inválida, por favor selecione novamente a operação desejada.")
-
-
-## Pré-visualização do Sistema:
-
-[d] Depositar
-
-[s] Sacar
-
-[e] Extrato
-
-[q] Sair
-
-=> e  
-
-============== EXTRATO =============
-
-Não foram realizadas movimentações.
-
-Saldo: R$ 0.00
-
-==================================
