@@ -1,4 +1,5 @@
 
+
 # DESAFIO DIO.
 
 Projeto realizado para desafiar e fixar os conhecimentos adquiridos no Bootcamp da Dio em parceria com a Vivo.
@@ -96,8 +97,20 @@ while True:
 
 ============== EXTRATO =============
 
+
 Não foram realizadas movimentações.
 
 Saldo: R$ 0.00
 
 ==================================
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Esboço da segunda parte do desafio.
+
+Neste 2° desafio iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários.
+Todo o passo a passo da implementação esta descrita na imagem abaixo.
+
+
+![Trilha Python - desafio](https://github.com/Sidnei247/Desafio-sistema-bancario-Python/assets/166535833/9dbdd1ba-5b9a-43b9-b0dc-9a3fd0a1000b)
